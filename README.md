@@ -19,3 +19,7 @@ I've been working on replicating the pinch-click system using Python and OpenCV.
 ---
 
 Feel free to customize it further to better suit your style or include any additional details!
+
+---
+# Example Sample
+    [![Watch the video](https://i.sstatic.net/Vp2cE.png)](https://www.linkedin.com/posts/shaikhzayan-expert-fullstack-engineer-developer_computervision-handtracking-python-activity-7200180384628719617-vZVP?utm_source=share&utm_medium=member_desktop)
