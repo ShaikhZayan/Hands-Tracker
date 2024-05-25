@@ -21,5 +21,4 @@ I've been working on replicating the pinch-click system using Python and OpenCV.
 Feel free to customize it further to better suit your style or include any additional details!
 
 ---
-# Example Sample
-    [![Watch the video](https://i.sstatic.net/Vp2cE.png)](https://www.youtube.com/watch?v=z1GPm6fxsVE)
+
