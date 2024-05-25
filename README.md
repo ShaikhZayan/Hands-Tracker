@@ -22,4 +22,4 @@ Feel free to customize it further to better suit your style or include any addit
 
 ---
 # Example Sample
-    [![Watch the video](https://i.sstatic.net/Vp2cE.png)](https://www.linkedin.com/posts/shaikhzayan-expert-fullstack-engineer-developer_computervision-handtracking-python-activity-7200180384628719617-vZVP?utm_source=share&utm_medium=member_desktop)
+    [![Watch the video](https://i.sstatic.net/Vp2cE.png)](https://www.youtube.com/watch?v=z1GPm6fxsVE)
