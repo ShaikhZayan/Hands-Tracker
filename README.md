@@ -20,7 +20,4 @@ I've been working on replicating the pinch-click system using Python and OpenCV.
 
 Feel free to customize it further to better suit your style or include any additional details!
 
---- [
-
-[![Watch the video](https://raw.githubusercontent.com/username/repository/branch/path/to/thumbnail.jpg)](https://github.com/ShaikhZayan/Hands-Tracker/blob/main/Project%20Example.mp4)
-
+---
